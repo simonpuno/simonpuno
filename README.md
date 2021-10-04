@@ -4,7 +4,7 @@ I'm a software engineer specializing in React, Redux, JavaScript, and Ruby on Ra
 
 💻 Check out my portfolio [here](http://www.simonpuno.com/) for my resume and projects.
 
-📩 You can send me an email at [simonpuno@gmail.com](mailto:simonpuno@gmail.com).
+📩 Send me an email at [simonpuno@gmail.com](mailto:simonpuno@gmail.com).
 
 🤝 Looking to connect? Find me on [LinkedIn](https://www.linkedin.com/in/simonpuno/).
 
